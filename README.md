@@ -7,6 +7,10 @@ App Player with Flutter (Task College)
 - Pause Music
 - Notification Background
 
+## Screenshots
+<pre>
+<img src="https://user-images.githubusercontent.com/109071310/203484813-053bcf76-36b9-43bd-99a7-12ffef370008.jpg" alt="1" width="225" height="500" /> <img src="https://user-images.githubusercontent.com/109071310/203484818-b23865aa-2e89-499b-bab5-ee0e93efb782.jpg" alt="2" width="225" height="500" /> <img src="https://user-images.githubusercontent.com/109071310/203484820-9a558372-1375-4d3f-beea-37cce874cbda.jpg" alt="3" width="225" height="500" /> 
+</pre>
 
 ## Building from Source
 

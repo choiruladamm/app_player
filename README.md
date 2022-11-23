@@ -30,6 +30,6 @@ flutter run
 
 ## Don't Forget to
 
-- Star the Repository [⭐](https://github.com/fionicholas/Restaurants-Flutterapp)
+- Star the Repository [⭐]
 - Follow [My Github Account](https://github.com/choiruladamm/)
 
